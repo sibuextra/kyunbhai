@@ -1,0 +1,1 @@
+chrome-extension://9b366fc4-a145-49a6-9af5-e9c7cb596911/rule_resources/redirects/googlesyndication_adsbygoogle.js
